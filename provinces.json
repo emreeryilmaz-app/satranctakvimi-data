@@ -1,0 +1,488 @@
+[
+ {
+  "name": "Adana",
+  "slug": "adana",
+  "site": "https://adana.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Adıyaman",
+  "slug": "adiyaman",
+  "site": "https://adiyaman.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Afyonkarahisar",
+  "slug": "afyonkarahisar",
+  "site": "https://afyonkarahisar.tsf.org.tr",
+  "registration_enabled": false
+ },
+ {
+  "name": "Ağrı",
+  "slug": "agri",
+  "site": "https://agri.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Aksaray",
+  "slug": "aksaray",
+  "site": "https://aksaray.tsf.org.tr",
+  "registration_enabled": false
+ },
+ {
+  "name": "Amasya",
+  "slug": "amasya",
+  "site": "https://amasya.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Ankara",
+  "slug": "ankara",
+  "site": "https://ankara.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Antalya",
+  "slug": "antalya",
+  "site": "https://antalya.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Ardahan",
+  "slug": "ardahan",
+  "site": "https://ardahan.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Artvin",
+  "slug": "artvin",
+  "site": "https://artvin.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Aydın",
+  "slug": "aydin",
+  "site": "https://aydin.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Balıkesir",
+  "slug": "balikesir",
+  "site": "https://balikesir.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Bartın",
+  "slug": "bartin",
+  "site": "https://bartin.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Batman",
+  "slug": "batman",
+  "site": "https://batman.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Bayburt",
+  "slug": "bayburt",
+  "site": "https://bayburt.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Bilecik",
+  "slug": "bilecik",
+  "site": "https://bilecik.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Bingöl",
+  "slug": "bingol",
+  "site": "https://bingol.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Bitlis",
+  "slug": "bitlis",
+  "site": "https://bitlis.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Bolu",
+  "slug": "bolu",
+  "site": "https://bolu.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Burdur",
+  "slug": "burdur",
+  "site": "https://burdur.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Bursa",
+  "slug": "bursa",
+  "site": "https://bursa.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Çanakkale",
+  "slug": "canakkale",
+  "site": "https://canakkale.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Çankırı",
+  "slug": "cankiri",
+  "site": "https://cankiri.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Çorum",
+  "slug": "corum",
+  "site": "https://corum.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Denizli",
+  "slug": "denizli",
+  "site": "https://denizli.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Diyarbakır",
+  "slug": "diyarbakir",
+  "site": "https://diyarbakir.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Düzce",
+  "slug": "duzce",
+  "site": "https://duzce.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Edirne",
+  "slug": "edirne",
+  "site": "https://edirne.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Elazığ",
+  "slug": "elazig",
+  "site": "https://elazig.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Erzincan",
+  "slug": "erzincan",
+  "site": "https://erzincan.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Erzurum",
+  "slug": "erzurum",
+  "site": "https://erzurum.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Eskişehir",
+  "slug": "eskisehir",
+  "site": "https://eskisehir.tsf.org.tr",
+  "registration_enabled": false
+ },
+ {
+  "name": "Gaziantep",
+  "slug": "gaziantep",
+  "site": "https://gaziantep.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Giresun",
+  "slug": "giresun",
+  "site": "https://giresun.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Gümüşhane",
+  "slug": "gumushane",
+  "site": "https://gumushane.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Hakkari",
+  "slug": "hakkari",
+  "site": "https://hakkari.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Hatay",
+  "slug": "hatay",
+  "site": "https://hatay.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Iğdır",
+  "slug": "igdir",
+  "site": "https://igdir.tsf.org.tr",
+  "registration_enabled": false
+ },
+ {
+  "name": "Isparta",
+  "slug": "isparta",
+  "site": "https://isparta.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "İstanbul",
+  "slug": "istanbul",
+  "site": "https://istanbul.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "İzmir",
+  "slug": "izmir",
+  "site": "https://izmir.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kahramanmaraş",
+  "slug": "kahramanmaras",
+  "site": "https://kahramanmaras.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Karabük",
+  "slug": "karabuk",
+  "site": "https://karabuk.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Karaman",
+  "slug": "karaman",
+  "site": "https://karaman.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kars",
+  "slug": "kars",
+  "site": "https://kars.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kastamonu",
+  "slug": "kastamonu",
+  "site": "https://kastamonu.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kayseri",
+  "slug": "kayseri",
+  "site": "https://kayseri.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kilis",
+  "slug": "kilis",
+  "site": "https://kilis.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kırıkkale",
+  "slug": "kirikkale",
+  "site": "https://kirikkale.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kırklareli",
+  "slug": "kirklareli",
+  "site": "https://kirklareli.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kırşehir",
+  "slug": "kirsehir",
+  "site": "https://kirsehir.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kocaeli",
+  "slug": "kocaeli",
+  "site": "https://kocaeli.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Konya",
+  "slug": "konya",
+  "site": "https://konya.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Kütahya",
+  "slug": "kutahya",
+  "site": "https://kutahya.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Malatya",
+  "slug": "malatya",
+  "site": "https://malatya.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Manisa",
+  "slug": "manisa",
+  "site": "https://manisa.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Mardin",
+  "slug": "mardin",
+  "site": "https://mardin.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Mersin",
+  "slug": "mersin",
+  "site": "https://mersin.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Muğla",
+  "slug": "mugla",
+  "site": "https://mugla.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Muş",
+  "slug": "mus",
+  "site": "https://mus.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Nevşehir",
+  "slug": "nevsehir",
+  "site": "https://nevsehir.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Niğde",
+  "slug": "nigde",
+  "site": "https://nigde.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Ordu",
+  "slug": "ordu",
+  "site": "https://ordu.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Osmaniye",
+  "slug": "osmaniye",
+  "site": "https://osmaniye.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Rize",
+  "slug": "rize",
+  "site": "https://rize.tsf.org.tr",
+  "registration_enabled": false
+ },
+ {
+  "name": "Sakarya",
+  "slug": "sakarya",
+  "site": "https://sakarya.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Samsun",
+  "slug": "samsun",
+  "site": "https://samsun.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Şanlıurfa",
+  "slug": "sanliurfa",
+  "site": "https://sanliurfa.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Siirt",
+  "slug": "siirt",
+  "site": "https://siirt.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Sinop",
+  "slug": "sinop",
+  "site": "https://sinop.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Şırnak",
+  "slug": "sirnak",
+  "site": "https://sirnak.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Sivas",
+  "slug": "sivas",
+  "site": "https://sivas.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Tekirdağ",
+  "slug": "tekirdag",
+  "site": "https://tekirdag.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Tokat",
+  "slug": "tokat",
+  "site": "https://tokat.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Trabzon",
+  "slug": "trabzon",
+  "site": "https://trabzon.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Tunceli",
+  "slug": "tunceli",
+  "site": "https://tunceli.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Uşak",
+  "slug": "usak",
+  "site": "https://usak.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Van",
+  "slug": "van",
+  "site": "https://van.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Yalova",
+  "slug": "yalova",
+  "site": "https://yalova.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Yozgat",
+  "slug": "yozgat",
+  "site": "https://yozgat.tsf.org.tr",
+  "registration_enabled": true
+ },
+ {
+  "name": "Zonguldak",
+  "slug": "zonguldak",
+  "site": "https://zonguldak.tsf.org.tr",
+  "registration_enabled": true
+ }
+]
