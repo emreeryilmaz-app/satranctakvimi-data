@@ -1,17 +1,22 @@
 {
- "generated_at": "2026-11-25T12:57:48+03:00",
- "duration_s": 50.0,
+ "generated_at": "2026-11-25T14:36:50+03:00",
+ "duration_s": 55.1,
  "provinces_scraped": 76,
- "records_total": 597,
- "listed": 398,
- "open": 335,
- "new_this_run": 5,
+ "records_total": 620,
+ "listed": 421,
+ "open": 358,
+ "new_this_run": 10,
  "new_ids": [
-  "aydin-1026",
-  "aydin-1025",
-  "aydin-1024",
-  "samsun-863",
-  "samsun-862"
+  "ankara-1291",
+  "ankara-1290",
+  "ankara-1289",
+  "ankara-1288",
+  "ankara-1287",
+  "ankara-1286",
+  "ankara-1285",
+  "ankara-1284",
+  "ankara-1283",
+  "ankara-1282"
  ],
  "errors": []
 }
