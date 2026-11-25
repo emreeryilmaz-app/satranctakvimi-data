@@ -1,11 +1,14 @@
 {
- "generated_at": "2026-11-25T15:58:06+03:00",
- "duration_s": 61.3,
+ "generated_at": "2026-11-25T18:52:23+03:00",
+ "duration_s": 61.4,
  "provinces_scraped": 76,
- "records_total": 633,
- "listed": 428,
+ "records_total": 635,
+ "listed": 430,
  "open": 365,
- "new_this_run": 0,
- "new_ids": [],
+ "new_this_run": 2,
+ "new_ids": [
+  "adana-943",
+  "adana-942"
+ ],
  "errors": []
 }
