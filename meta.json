@@ -1,11 +1,17 @@
 {
- "generated_at": "2026-11-25T09:55:15+03:00",
- "duration_s": 51.4,
+ "generated_at": "2026-11-25T12:57:48+03:00",
+ "duration_s": 50.0,
  "provinces_scraped": 76,
- "records_total": 592,
- "listed": 393,
- "open": 332,
- "new_this_run": 0,
- "new_ids": [],
+ "records_total": 597,
+ "listed": 398,
+ "open": 335,
+ "new_this_run": 5,
+ "new_ids": [
+  "aydin-1026",
+  "aydin-1025",
+  "aydin-1024",
+  "samsun-863",
+  "samsun-862"
+ ],
  "errors": []
 }
