@@ -1,22 +1,11 @@
 {
- "generated_at": "2026-11-25T14:36:50+03:00",
- "duration_s": 55.1,
+ "generated_at": "2026-11-25T15:22:56+03:00",
+ "duration_s": 56.1,
  "provinces_scraped": 76,
- "records_total": 620,
- "listed": 421,
- "open": 358,
- "new_this_run": 10,
- "new_ids": [
-  "ankara-1291",
-  "ankara-1290",
-  "ankara-1289",
-  "ankara-1288",
-  "ankara-1287",
-  "ankara-1286",
-  "ankara-1285",
-  "ankara-1284",
-  "ankara-1283",
-  "ankara-1282"
- ],
+ "records_total": 633,
+ "listed": 428,
+ "open": 365,
+ "new_this_run": 0,
+ "new_ids": [],
  "errors": []
 }
