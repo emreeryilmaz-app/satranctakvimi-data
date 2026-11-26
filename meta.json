@@ -1,15 +1,11 @@
 {
- "generated_at": "2026-11-26T15:56:51+03:00",
- "duration_s": 56.0,
+ "generated_at": "2026-11-26T18:51:00+03:00",
+ "duration_s": 57.9,
  "provinces_scraped": 76,
  "records_total": 647,
- "listed": 430,
- "open": 362,
- "new_this_run": 3,
- "new_ids": [
-  "tekirdag-1093",
-  "tekirdag-1092",
-  "tekirdag-1091"
- ],
+ "listed": 427,
+ "open": 311,
+ "new_this_run": 0,
+ "new_ids": [],
  "errors": []
 }
