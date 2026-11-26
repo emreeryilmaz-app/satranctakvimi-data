@@ -1,11 +1,21 @@
 {
- "generated_at": "2026-11-26T09:55:01+03:00",
- "duration_s": 61.5,
+ "generated_at": "2026-11-26T12:55:39+03:00",
+ "duration_s": 66.7,
  "provinces_scraped": 76,
- "records_total": 635,
+ "records_total": 644,
  "listed": 427,
- "open": 363,
- "new_this_run": 0,
- "new_ids": [],
+ "open": 362,
+ "new_this_run": 9,
+ "new_ids": [
+  "bursa-704",
+  "denizli-702",
+  "tekirdag-1090",
+  "tekirdag-1089",
+  "tekirdag-1088",
+  "tekirdag-1087",
+  "tekirdag-1086",
+  "tekirdag-1085",
+  "tekirdag-1084"
+ ],
  "errors": []
 }
