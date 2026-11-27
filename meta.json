@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-27T09:56:33+03:00",
- "duration_s": 61.8,
+ "generated_at": "2026-11-27T12:54:05+03:00",
+ "duration_s": 51.0,
  "provinces_scraped": 76,
  "records_total": 657,
- "listed": 429,
- "open": 315,
+ "listed": 428,
+ "open": 310,
  "new_this_run": 0,
  "new_ids": [],
  "errors": []
