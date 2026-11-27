@@ -1,18 +1,12 @@
 {
- "generated_at": "2026-11-27T21:41:48+03:00",
+ "generated_at": "2026-11-27T22:01:13+03:00",
  "duration_s": 53.4,
  "provinces_scraped": 76,
  "records_total": 668,
  "listed": 414,
  "open": 271,
- "new_this_run": 6,
- "new_ids": [
-  "canakkale-774",
-  "canakkale-773",
-  "canakkale-772",
-  "canakkale-771",
-  "canakkale-770",
-  "canakkale-769"
- ],
+ "new_this_run": 0,
+ "new_ids": [],
+ "cr_linked": 91,
  "errors": []
 }

@@ -1,0 +1,6165 @@
+{
+ "generated_at": "2026-11-27T22:02:03+03:00",
+ "tournaments": [
+  {
+   "id": "adana-939",
+   "province": "adana",
+   "province_name": "Adana",
+   "title": "AÇIK KATEGORİ (KASIM AYI EN İYİ 64 SATRANÇ TURNUVASI)",
+   "event": "KASIM AYI EN İYİ 64 SATRANÇ TURNUVASI)",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "all_ages"
+   ],
+   "date": "2026-11-25",
+   "cr": [
+    {
+     "id": 1551210,
+     "name": "KASIM AYI EN İYİ 64 SATRANÇ TURNUVASIAÇIK KATEGORİ",
+     "from": "2026-11-26",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 2,
+     "players": 29
+    }
+   ]
+  },
+  {
+   "id": "antalya-861",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "event": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1552534,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 60
+    },
+    {
+     "id": 1552535,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552536,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552539,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "antalya-865",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - A KATEGORİSİ",
+   "event": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1546587,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI7 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546589,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1546590,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 22
+    },
+    {
+     "id": 1546591,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIB KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 74
+    },
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    }
+   ]
+  },
+  {
+   "id": "antalya-866",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - B KATEGORİSİ",
+   "event": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1546587,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI7 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546589,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1546590,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 22
+    },
+    {
+     "id": 1546591,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIB KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 74
+    },
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    }
+   ]
+  },
+  {
+   "id": "antalya-867",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - 7 YAŞ KATEGORİSİ",
+   "event": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2020,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1546587,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI7 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546589,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1546590,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 22
+    },
+    {
+     "id": 1546591,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIB KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 74
+    },
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    }
+   ]
+  },
+  {
+   "id": "antalya-868",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - 8 YAŞ KATEGORİSİ",
+   "event": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": 2019,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1546589,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1546587,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI7 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546590,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 22
+    },
+    {
+     "id": 1546591,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIB KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 74
+    },
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    }
+   ]
+  },
+  {
+   "id": "antalya-869",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - YEDEK BAŞVURU",
+   "event": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - BAŞVURU",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1546587,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI7 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546589,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1546590,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 22
+    },
+    {
+     "id": 1546591,
+     "name": "ANTALYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIB KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 74
+    },
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    }
+   ]
+  },
+  {
+   "id": "antalya-872",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI",
+   "event": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1552534,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 60
+    },
+    {
+     "id": 1552535,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552536,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552539,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "antalya-875",
+   "province": "antalya",
+   "province_name": "Antalya",
+   "title": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİLİĞİ",
+   "event": "2026 KÜÇÜKLER SATRANÇ ANTALYA İL BİRİNCİLİĞİ",
+   "birth_year_min": 2015,
+   "birth_year_max": 2016,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552534,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 60
+    },
+    {
+     "id": 1552535,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552536,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552539,
+     "name": "2026 KÜÇÜKLER 11-12 YAŞ SATRANÇ ANTALYA İL BİRİNCİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552686,
+     "name": "2026 KUMLUCA ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNU",
+     "from": "2026-11-28",
+     "to": "2026-11-28",
+     "tempo": "rapid",
+     "rounds": 0,
+     "players": 57
+    },
+    {
+     "id": 1551527,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 16
+    },
+    {
+     "id": 1551529,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1551528,
+     "name": "GAZİPAŞA 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 57
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1094",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 18 YAŞ KIZLAR(2009 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2009,
+   "birth_year_max": 2009,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1095",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 18 YAŞ GENEL(2009 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2009,
+   "birth_year_max": 2009,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1096",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 17 YAŞ KIZLAR(2010 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2010,
+   "birth_year_max": 2010,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1097",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 17 YAŞ GENEL(2010 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2010,
+   "birth_year_max": 2010,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1098",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 16 YAŞ KIZLAR(2011 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2011,
+   "birth_year_max": 2011,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1099",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 16 YAŞ GENEL(2011 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2011,
+   "birth_year_max": 2011,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1100",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 15 YAŞ KIZLAR(2012 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2012,
+   "birth_year_max": 2012,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1101",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 15 YAŞ GENEL(2012 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2012,
+   "birth_year_max": 2012,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1102",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 14 YAŞ KIZLAR(2013 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2013,
+   "birth_year_max": 2013,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1103",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 14 YAŞ GENEL(2013 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2013,
+   "birth_year_max": 2013,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1104",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 13 YAŞ KIZLAR(2014 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2014,
+   "birth_year_max": 2014,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1105",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 13 YAŞ GENEL(2014 DOĞUMLU SPORCULAR)",
+   "event": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2014,
+   "birth_year_max": 2014,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1552618,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ14",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552622,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ15",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    },
+    {
+     "id": 1552626,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 7
+    },
+    {
+     "id": 1552629,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ16",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1552631,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ17",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1106",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 12 YAŞ KIZLAR(2015 DOĞUMLU SPORCULAR)",
+   "event": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2015,
+   "birth_year_max": 2015,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551614,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1551620,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    },
+    {
+     "id": 1551606,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1551610,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551612,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1107",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 12 YAŞ GENEL(2015 DOĞUMLU SPORCULAR)",
+   "event": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2015,
+   "birth_year_max": 2015,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551614,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1551620,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    },
+    {
+     "id": 1551606,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1551610,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551612,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1108",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 11 YAŞ KIZLAR(2016 DOĞUMLU SPORCULAR)",
+   "event": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2016,
+   "birth_year_max": 2016,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551610,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551612,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    },
+    {
+     "id": 1551606,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1551614,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1551620,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1109",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 11 YAŞ GENEL(2016 DOĞUMLU SPORCULAR)",
+   "event": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2016,
+   "birth_year_max": 2016,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551610,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551612,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    },
+    {
+     "id": 1551606,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1551614,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1551620,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1110",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 10 YAŞ KIZLAR(2017 DOĞUMLU SPORCULAR)",
+   "event": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2017,
+   "birth_year_max": 2017,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    },
+    {
+     "id": 1551606,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1551610,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551612,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1551614,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1551620,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "balikesir-1111",
+   "province": "balikesir",
+   "province_name": "Balıkesir",
+   "title": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ 10 YAŞ GENEL(2017 DOĞUMLU SPORCULAR)",
+   "event": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2017,
+   "birth_year_max": 2017,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551605,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 42
+    },
+    {
+     "id": 1551606,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ10 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1551610,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551612,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ11 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1551614,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1551620,
+     "name": "2027 KÜÇÜKLER BALIKESİR SATRANÇ İL BİRİNCİLİĞİ12 Y",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1552613,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552616,
+     "name": "2027 YILDIZLAR BALIKESİR SATRANÇ İL BİRİNCİLİĞİ13",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "batman-329",
+   "province": "batman",
+   "province_name": "Batman",
+   "title": "BATMAN KASIM AYI ELO SATRANÇ TURNUVASI",
+   "event": "BATMAN KASIM AYI ELO SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "all_ages"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551444,
+     "name": "KASIM AYI ELO SATRANÇ TURNUVASI08 YAŞ VE ALTI SPOR",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 12
+    },
+    {
+     "id": 1551446,
+     "name": "KASIM AYI ELO SATRANÇ TURNUVASI10 YAŞ VE ALTI SPOR",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 22
+    },
+    {
+     "id": 1551449,
+     "name": "KASIM AYI ELO SATRANÇ TURNUVASIA KATEGORİSİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 18
+    },
+    {
+     "id": 1551451,
+     "name": "KASIM AYI ELO SATRANÇ TURNUVASIB KATEGORİSİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 91
+    }
+   ]
+  },
+  {
+   "id": "bilecik-242",
+   "province": "bilecik",
+   "province_name": "Bilecik",
+   "title": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI - YÖNERGEYİ OKUMADAN KAYIT OLMAYINIZ!",
+   "event": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-22",
+   "cr": [
+    {
+     "id": 1546854,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAS",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 22
+    },
+    {
+     "id": 1546856,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAS v",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546852,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIAÇIK KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 56
+    },
+    {
+     "id": 1547419,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TUNCELİ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 31
+    },
+    {
+     "id": 1529352,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TUNCELİ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1547288,
+     "name": "BİNGÖL 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 10
+    },
+    {
+     "id": 1547274,
+     "name": "BİNGÖL 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 4
+    },
+    {
+     "id": 1547283,
+     "name": "BİNGÖL 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 20
+    }
+   ]
+  },
+  {
+   "id": "bolu-207",
+   "province": "bolu",
+   "province_name": "Bolu",
+   "title": "Bolu Başöğretmen Atatürk Kupası Satranç Turnuvası",
+   "event": "BOLU BAŞÖĞRETMEN ATATÜRK KUPASI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552545,
+     "name": "Bolu Başöğretmen Atatürk Kupası Satranç Turnuvası",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 91
+    },
+    {
+     "id": 1552551,
+     "name": "Bolu Başöğretmen Atatürk Kupası Satranç Turnuvası",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 55
+    },
+    {
+     "id": 1552537,
+     "name": "Bolu Başöğretmen Atatürk Kupası Satranç Turnuvası",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 60
+    },
+    {
+     "id": 1552553,
+     "name": "Bolu Başöğretmen Atatürk Kupası Satranç Turnuvası",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 46
+    }
+   ]
+  },
+  {
+   "id": "corum-286",
+   "province": "corum",
+   "province_name": "Çorum",
+   "title": "ÇORUM YILDIZLAR İL BİRİNCİLİĞİ",
+   "event": "ÇORUM YILDIZLAR İL BİRİNCİLİĞİ",
+   "birth_year_min": 2009,
+   "birth_year_max": 2014,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552355,
+     "name": "YILDIZLAR SATRANÇ (13-18) ÇORUM İL BİRİNCİLİĞİ",
+     "from": "2026-11-27",
+     "to": "2026-11-27",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1552356,
+     "name": "YILDIZLAR SATRANÇ (13-18) ÇORUM İL BİRİNCİLİĞİ",
+     "from": "2026-11-27",
+     "to": "2026-11-27",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 5
+    },
+    {
+     "id": 1552358,
+     "name": "YILDIZLAR SATRANÇ (13-18) ÇORUM İL BİRİNCİLİĞİ",
+     "from": "2026-11-27",
+     "to": "2026-11-27",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1552354,
+     "name": "YILDIZLAR SATRANÇ (13-18) ÇORUM İL BİRİNCİLİĞİ 14",
+     "from": "2026-11-27",
+     "to": "2026-11-27",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1552353,
+     "name": "YILDIZLAR SATRANÇ (13-18) ÇORUM İL BİRİNCİLİĞİ 14",
+     "from": "2026-11-27",
+     "to": "2026-11-27",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 11
+    }
+   ]
+  },
+  {
+   "id": "denizli-696",
+   "province": "denizli",
+   "province_name": "Denizli",
+   "title": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "event": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "birth_year_min": 2009,
+   "birth_year_max": 2014,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552481,
+     "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ13 GENEL",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 25
+    },
+    {
+     "id": 1552488,
+     "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ13 KIZLAR",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1552515,
+     "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ14 GENEL",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 5
+    },
+    {
+     "id": 1552518,
+     "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ14 KIZLAR",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 5
+    },
+    {
+     "id": 1552522,
+     "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ15 GENEL + KIZLAR",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 13
+    },
+    {
+     "id": 1552525,
+     "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ16 GENEL + KIZLAR",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1552530,
+     "name": "DENİZLİ YILDIZLAR İL BİRİNCİLİĞİ17 GENEL + KIZLAR",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 9
+    }
+   ]
+  },
+  {
+   "id": "edirne-792",
+   "province": "edirne",
+   "province_name": "Edirne",
+   "title": "TÜRKİYE KUPASI EDİRNE İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 2026",
+   "event": "TÜRKİYE KUPASI EDİRNE İL BİRİNCİLİĞİ SATRANÇ TURNUVASI 2026",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "all_ages"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552667,
+     "name": "TÜRKİYE KUPASI SATRANÇ EDİRNE İL BİRİNCİLİĞİ",
+     "from": "2026-11-27",
+     "to": "2026-11-28",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 40
+    }
+   ]
+  },
+  {
+   "id": "izmir-2252",
+   "province": "izmir",
+   "province_name": "İzmir",
+   "title": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI 8 YAŞ VE ALTI KATEGORİSİ [2020-2019 DOĞUMLU SPORCULAR]",
+   "event": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551632,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 69
+    },
+    {
+     "id": 1551633,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 32
+    },
+    {
+     "id": 1551630,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 94
+    },
+    {
+     "id": 1551631,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 98
+    },
+    {
+     "id": 1552082,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası8 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552083,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası7 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    }
+   ]
+  },
+  {
+   "id": "izmir-2253",
+   "province": "izmir",
+   "province_name": "İzmir",
+   "title": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI 10 YAŞ VE ALTI KATEGORİSİ [2018-2017 DOĞUMLU SPORCULAR]",
+   "event": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI",
+   "birth_year_min": 2017,
+   "birth_year_max": 2018,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551632,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 69
+    },
+    {
+     "id": 1551633,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 32
+    },
+    {
+     "id": 1551630,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 94
+    },
+    {
+     "id": 1551631,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 98
+    },
+    {
+     "id": 1552083,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası7 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1552082,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası8 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    }
+   ]
+  },
+  {
+   "id": "izmir-2254",
+   "province": "izmir",
+   "province_name": "İzmir",
+   "title": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI B KATEGORİSİ [ELO PUANI OLMAYAN 1399 VE ALTI UKD]",
+   "event": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "all_ages"
+   ],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1551632,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 69
+    },
+    {
+     "id": 1551633,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 32
+    },
+    {
+     "id": 1551630,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 94
+    },
+    {
+     "id": 1551631,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 98
+    }
+   ]
+  },
+  {
+   "id": "izmir-2255",
+   "province": "izmir",
+   "province_name": "İzmir",
+   "title": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI A KATEGORİSİ [2100-1400 ARASI ELO PUANI- ELO PUANI OLMAYIP 1400 VE ÜZER UKD]",
+   "event": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "all_ages"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551632,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 69
+    },
+    {
+     "id": 1551633,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 32
+    },
+    {
+     "id": 1551630,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 94
+    },
+    {
+     "id": 1551631,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 98
+    },
+    {
+     "id": 1552083,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası7 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1552082,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası8 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    }
+   ]
+  },
+  {
+   "id": "izmir-2275",
+   "province": "izmir",
+   "province_name": "İzmir",
+   "title": "DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI 8 YAŞ VE ALTI KATEGORİSİ [2019 DOĞUMLU SPORCULAR]",
+   "event": "DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": 2019,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552082,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası8 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552083,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası7 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1551632,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 69
+    },
+    {
+     "id": 1551633,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 32
+    },
+    {
+     "id": 1551630,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 94
+    },
+    {
+     "id": 1551631,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 98
+    }
+   ]
+  },
+  {
+   "id": "izmir-2276",
+   "province": "izmir",
+   "province_name": "İzmir",
+   "title": "DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI 7 YAŞ VE ALTI KATEGORİSİ [2020 DOĞUMLU SPORCULAR]",
+   "event": "DÜNYA ENGELLİLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2020,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552083,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası7 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1552082,
+     "name": "Dünya Engelliler Günü Satranç Turnuvası8 Yaş Kateg",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1551632,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 69
+    },
+    {
+     "id": 1551633,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 32
+    },
+    {
+     "id": 1551630,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 94
+    },
+    {
+     "id": 1551631,
+     "name": "UFUK AKSOY ANISINA ÇEŞME ÇYDD ŞUBESİ 2. ELO TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 98
+    }
+   ]
+  },
+  {
+   "id": "kahramanmaras-659",
+   "province": "kahramanmaras",
+   "province_name": "Kahramanmaraş",
+   "title": "Kahramanmaraş_ Öğretmenler Günü_Satranç_Turnuvası",
+   "event": "KAHRAMANMARAŞ_ ÖĞRETMENLER GÜNÜ_SATRANÇ_TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-20",
+   "cr": [
+    {
+     "id": 1547240,
+     "name": "KAHRAMANMARAŞ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 10
+    },
+    {
+     "id": 1547244,
+     "name": "KAHRAMANMARAŞ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 32
+    },
+    {
+     "id": 1547228,
+     "name": "KAHRAMANMARAŞ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1547246,
+     "name": "KAHRAMANMARAŞ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIAÇ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    }
+   ]
+  },
+  {
+   "id": "kirikkale-173",
+   "province": "kirikkale",
+   "province_name": "Kırıkkale",
+   "title": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI AÇIK KATEGORİ",
+   "event": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "all_ages"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551477,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 37
+    },
+    {
+     "id": 1551430,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 17
+    },
+    {
+     "id": 1551429,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 64
+    }
+   ]
+  },
+  {
+   "id": "kirikkale-174",
+   "province": "kirikkale",
+   "province_name": "Kırıkkale",
+   "title": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 14 YAŞ VE ALTI KATEGORİSİ",
+   "event": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2013,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551477,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 37
+    },
+    {
+     "id": 1551430,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 17
+    },
+    {
+     "id": 1551429,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 64
+    }
+   ]
+  },
+  {
+   "id": "kirikkale-175",
+   "province": "kirikkale",
+   "province_name": "Kırıkkale",
+   "title": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 10 YAŞ VE ALTI KATEGORİSİ",
+   "event": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2017,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551477,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 37
+    },
+    {
+     "id": 1551430,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 17
+    },
+    {
+     "id": 1551429,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 64
+    }
+   ]
+  },
+  {
+   "id": "kirikkale-176",
+   "province": "kirikkale",
+   "province_name": "Kırıkkale",
+   "title": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 8 YAŞ KATEGORİSİ",
+   "event": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": 2019,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551477,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 37
+    },
+    {
+     "id": 1551430,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 17
+    },
+    {
+     "id": 1551429,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 64
+    }
+   ]
+  },
+  {
+   "id": "kirikkale-177",
+   "province": "kirikkale",
+   "province_name": "Kırıkkale",
+   "title": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 7 YAŞ KATEGORİSİ",
+   "event": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2020,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551477,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 37
+    },
+    {
+     "id": 1551430,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 17
+    },
+    {
+     "id": 1551429,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 64
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-798",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI U8",
+   "event": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI",
+   "birth_year_min": 2020,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1549862,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI**********8 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549870,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549871,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 12 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549874,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 18 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-799",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI U10",
+   "event": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI",
+   "birth_year_min": 2018,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1549870,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549871,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 12 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549874,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 18 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549862,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI**********8 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-800",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI 12",
+   "event": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI 12",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1549871,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 12 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549870,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549874,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 18 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549862,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI**********8 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552327,
+     "name": "TÜRKİYE KADINLAR SATRANÇ KOCAELİ İL BİRİNCİLİĞİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 43
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-801",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI U18",
+   "event": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI",
+   "birth_year_min": 2010,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1549874,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 18 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549870,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549871,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 12 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549862,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI**********8 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-802",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "10 KASIM ATATÜRK’Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SATRANÇ TURNUVASI A KATEGORİSİ",
+   "event": "10 KASIM ATATÜRK’Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-13",
+   "cr": [
+    {
+     "id": 1541410,
+     "name": "10 KASIM ATATÜRK'Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SA",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1541447,
+     "name": "10 KASIM ATATÜRK'Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SA",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 110
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-803",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "10 KASIM ATATÜRK’Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SATRANÇ TURNUVASI B KATEGORİSİ",
+   "event": "10 KASIM ATATÜRK’Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-13",
+   "cr": [
+    {
+     "id": 1541410,
+     "name": "10 KASIM ATATÜRK'Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SA",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1541447,
+     "name": "10 KASIM ATATÜRK'Ü ANMA GÜNÜ VE ATATÜRK HAFTASI SA",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 110
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-804",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "GENÇLER SATRANÇ KOCAELİ BİRİNCİLİĞİ",
+   "event": "GENÇLER SATRANÇ KOCAELİ BİRİNCİLİĞİ",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1546770,
+     "name": "KOCAELİ GENÇLER İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 95
+    },
+    {
+     "id": 1552327,
+     "name": "TÜRKİYE KADINLAR SATRANÇ KOCAELİ İL BİRİNCİLİĞİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 43
+    }
+   ]
+  },
+  {
+   "id": "kocaeli-805",
+   "province": "kocaeli",
+   "province_name": "Kocaeli",
+   "title": "KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "event": "KOCAELİ KADINLAR İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "female",
+   "flags": [
+    "all_ages"
+   ],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552327,
+     "name": "TÜRKİYE KADINLAR SATRANÇ KOCAELİ İL BİRİNCİLİĞİ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 43
+    },
+    {
+     "id": 1549870,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549871,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 12 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549874,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI********** 18 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1549862,
+     "name": "ÖZELSİN KOLEJİ SATRANÇ TURNUVASI**********8 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "konya-1000",
+   "province": "konya",
+   "province_name": "Konya",
+   "title": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026)",
+   "event": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551477,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 37
+    },
+    {
+     "id": 1551430,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 17
+    },
+    {
+     "id": 1551429,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 64
+    }
+   ]
+  },
+  {
+   "id": "konya-999",
+   "province": "konya",
+   "province_name": "Konya",
+   "title": "AKŞEHİR ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI (28-29 KASIM 2026)",
+   "event": "AKŞEHİR ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1551477,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 37
+    },
+    {
+     "id": 1551430,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 17
+    },
+    {
+     "id": 1551429,
+     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 64
+    }
+   ]
+  },
+  {
+   "id": "kutahya-588",
+   "province": "kutahya",
+   "province_name": "Kütahya",
+   "title": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 8 YAŞ",
+   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": 2019,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-10-23",
+   "cr": [
+    {
+     "id": 1525765,
+     "name": "CUMHURİYET BAYRAMI 10 YAŞ SATRANÇ TURNUVASI",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 41
+    },
+    {
+     "id": 1526162,
+     "name": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 29
+    },
+    {
+     "id": 1525763,
+     "name": "Cumhuriyet Satranç Turnuvası 8 Yaş",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1526363,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 8 YAŞ",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1526201,
+     "name": "ORDU 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1531255,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8 YAŞ",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1531203,
+     "name": "RİZE 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 35
+    },
+    {
+     "id": 1525408,
+     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
+     "from": "2026-10-23",
+     "to": "2026-10-24",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 20
+    }
+   ]
+  },
+  {
+   "id": "kutahya-589",
+   "province": "kutahya",
+   "province_name": "Kütahya",
+   "title": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
+   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-10-23",
+   "cr": [
+    {
+     "id": 1525765,
+     "name": "CUMHURİYET BAYRAMI 10 YAŞ SATRANÇ TURNUVASI",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 41
+    },
+    {
+     "id": 1526162,
+     "name": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 29
+    },
+    {
+     "id": 1525763,
+     "name": "Cumhuriyet Satranç Turnuvası 8 Yaş",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1525408,
+     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
+     "from": "2026-10-23",
+     "to": "2026-10-24",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 20
+    },
+    {
+     "id": 1526213,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1526211,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 6,
+     "players": 46
+    },
+    {
+     "id": 1526212,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 6,
+     "players": 59
+    },
+    {
+     "id": 1526366,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 10 YA",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    }
+   ]
+  },
+  {
+   "id": "kutahya-590",
+   "province": "kutahya",
+   "province_name": "Kütahya",
+   "title": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 10 YAŞ",
+   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "birth_year_min": 2017,
+   "birth_year_max": 2017,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-10-23",
+   "cr": [
+    {
+     "id": 1525765,
+     "name": "CUMHURİYET BAYRAMI 10 YAŞ SATRANÇ TURNUVASI",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 41
+    },
+    {
+     "id": 1526162,
+     "name": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 29
+    },
+    {
+     "id": 1526366,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 10 YA",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1525763,
+     "name": "Cumhuriyet Satranç Turnuvası 8 Yaş",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1525408,
+     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
+     "from": "2026-10-23",
+     "to": "2026-10-24",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 20
+    },
+    {
+     "id": 1526213,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1526211,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 6,
+     "players": 46
+    },
+    {
+     "id": 1526212,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 6,
+     "players": 59
+    }
+   ]
+  },
+  {
+   "id": "kutahya-591",
+   "province": "kutahya",
+   "province_name": "Kütahya",
+   "title": "KÜTAHYA YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "event": "KÜTAHYA YILDIRIM İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-10-30",
+   "cr": [
+    {
+     "id": 1531574,
+     "name": "KÜTAHYA YILDIRIM SATRANÇ İL BİRİNCİNCİĞİAÇIK KATEG",
+     "from": "2026-10-31",
+     "to": "2026-10-31",
+     "tempo": "blitz",
+     "rounds": 9,
+     "players": 30
+    }
+   ]
+  },
+  {
+   "id": "kutahya-592",
+   "province": "kutahya",
+   "province_name": "Kütahya",
+   "title": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 8 YAŞ",
+   "event": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": 2019,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-06",
+   "cr": [
+    {
+     "id": 1536255,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 8 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 19
+    },
+    {
+     "id": 1536263,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 10 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 44
+    },
+    {
+     "id": 1536264,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 14 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    },
+    {
+     "id": 1541363,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 38
+    },
+    {
+     "id": 1541365,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 37
+    },
+    {
+     "id": 1541366,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 39
+    },
+    {
+     "id": 1541331,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 27
+    }
+   ]
+  },
+  {
+   "id": "kutahya-593",
+   "province": "kutahya",
+   "province_name": "Kütahya",
+   "title": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 10YAŞ",
+   "event": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI",
+   "birth_year_min": 2017,
+   "birth_year_max": 2017,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-06",
+   "cr": [
+    {
+     "id": 1536263,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 10 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 44
+    },
+    {
+     "id": 1536264,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 14 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    },
+    {
+     "id": 1536255,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 8 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 19
+    },
+    {
+     "id": 1541363,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 38
+    },
+    {
+     "id": 1541365,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 37
+    },
+    {
+     "id": 1541366,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 39
+    },
+    {
+     "id": 1541331,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 27
+    }
+   ]
+  },
+  {
+   "id": "kutahya-594",
+   "province": "kutahya",
+   "province_name": "Kütahya",
+   "title": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 14 YAŞ",
+   "event": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI",
+   "birth_year_min": 2013,
+   "birth_year_max": 2013,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-06",
+   "cr": [
+    {
+     "id": 1536264,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 14 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    },
+    {
+     "id": 1536263,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 10 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 44
+    },
+    {
+     "id": 1536255,
+     "name": "1O KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI 8 YAŞ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 19
+    },
+    {
+     "id": 1541363,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 38
+    },
+    {
+     "id": 1541365,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 37
+    },
+    {
+     "id": 1541366,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 39
+    },
+    {
+     "id": 1541331,
+     "name": "AVCILAR BELEDİYESİ 10 KASIM ATATÜRKÜ ANMA SATRANÇ",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 27
+    }
+   ]
+  },
+  {
+   "id": "manisa-1125",
+   "province": "manisa",
+   "province_name": "Manisa",
+   "title": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 8 YAŞALTI 2019-2020",
+   "event": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552510,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 63
+    },
+    {
+     "id": 1552511,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 58
+    },
+    {
+     "id": 1552508,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 46
+    },
+    {
+     "id": 1552512,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 34
+    }
+   ]
+  },
+  {
+   "id": "manisa-1127",
+   "province": "manisa",
+   "province_name": "Manisa",
+   "title": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI 14 YAŞALTI 2013-2016",
+   "event": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2013,
+   "birth_year_max": 2016,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552510,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 63
+    },
+    {
+     "id": 1552511,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 58
+    },
+    {
+     "id": 1552508,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 46
+    },
+    {
+     "id": 1552512,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 34
+    }
+   ]
+  },
+  {
+   "id": "manisa-1128",
+   "province": "manisa",
+   "province_name": "Manisa",
+   "title": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI AÇIK KATEGORİ 2020 VE ÖNCESİ",
+   "event": "TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552510,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 63
+    },
+    {
+     "id": 1552511,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 58
+    },
+    {
+     "id": 1552508,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 46
+    },
+    {
+     "id": 1552512,
+     "name": "2026_27 TURGUTLU ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVAS",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 34
+    }
+   ]
+  },
+  {
+   "id": "mersin-1028",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Ezgi Cumhuriyet Yaş Kategorileri (2015-2020 Yılları ve arasında doğan sporcular)",
+   "event": "EZGİ CUMHURİYET YAŞ",
+   "birth_year_min": 2015,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-10-29",
+   "cr": [
+    {
+     "id": 1530283,
+     "name": "29 EKİM CUMHURİYET BAYRAMI EZGİ SATRANÇ KULÜBÜ",
+     "from": "2026-11-01",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 23
+    },
+    {
+     "id": 1530286,
+     "name": "29 EKİM CUMHURİYET BAYRAMI EZGİ SATRANÇ KULÜBÜ H",
+     "from": "2026-11-01",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 22
+    },
+    {
+     "id": 1530288,
+     "name": "29 EKİM CUMHURİYET BAYRAMI EZGİ SATRANÇ KULÜBÜ H",
+     "from": "2026-11-01",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 30
+    },
+    {
+     "id": 1530289,
+     "name": "29 EKİM CUMHURİYET BAYRAMI EZGİ SATRANÇ KULÜBÜ H",
+     "from": "2026-11-01",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    }
+   ]
+  },
+  {
+   "id": "mersin-1035",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Ezgi 7 Yaş Öğretmenler",
+   "event": "EZGİ ÖĞRETMENLER",
+   "birth_year_min": 2020,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-18",
+   "cr": [
+    {
+     "id": 1542925,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 31
+    },
+    {
+     "id": 1542926,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1542920,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    },
+    {
+     "id": 1542922,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    }
+   ]
+  },
+  {
+   "id": "mersin-1036",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "8 yaş ezgi Öğretmenler Günü",
+   "event": "EZGİ ÖĞRETMENLER GÜNÜ",
+   "birth_year_min": 2019,
+   "birth_year_max": 2019,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-18",
+   "cr": [
+    {
+     "id": 1542925,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 31
+    },
+    {
+     "id": 1542926,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1542920,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    },
+    {
+     "id": 1542922,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    }
+   ]
+  },
+  {
+   "id": "mersin-1037",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Ezgi 10 yaş Öğretmenler Günü",
+   "event": "EZGİ ÖĞRETMENLER GÜNÜ",
+   "birth_year_min": 2017,
+   "birth_year_max": 2017,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-18",
+   "cr": [
+    {
+     "id": 1542925,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 31
+    },
+    {
+     "id": 1542926,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1542920,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    },
+    {
+     "id": 1542922,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    }
+   ]
+  },
+  {
+   "id": "mersin-1038",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Ezgi 14 Yaş Öğretmenler",
+   "event": "EZGİ ÖĞRETMENLER",
+   "birth_year_min": 2013,
+   "birth_year_max": 2013,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-18",
+   "cr": [
+    {
+     "id": 1542925,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 31
+    },
+    {
+     "id": 1542926,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1542920,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    },
+    {
+     "id": 1542922,
+     "name": "YENİŞEHİR LİONS KLB VE EZGİ SATRANÇ K. ÖĞRETMENLER",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    }
+   ]
+  },
+  {
+   "id": "mersin-1045",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Anamur 07-12 Yaş Aralığı (2020-2015 yıllarında doğan sporcular)",
+   "event": "ANAMUR",
+   "birth_year_min": 2015,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1545537,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1545543,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1545547,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1545549,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1545550,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1545551,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 5
+    },
+    {
+     "id": 1545553,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1545555,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    }
+   ]
+  },
+  {
+   "id": "mersin-1046",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Anamur 07-12 Yaş Aralığı (2020-2015 yıllarında doğan kız sporcular)",
+   "event": "ANAMUR",
+   "birth_year_min": 2015,
+   "birth_year_max": 2020,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-19",
+   "cr": [
+    {
+     "id": 1545537,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1545543,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1545547,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1545549,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 3
+    },
+    {
+     "id": 1545550,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1545551,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 5
+    },
+    {
+     "id": 1545553,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1545555,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ (ANAMUR-AYDINCIK-BOZYAZ",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    }
+   ]
+  },
+  {
+   "id": "mersin-1047",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Erdemli 07-12 Yaş Aralığı (2020-2015 yıllarında doğan kız sporcular)",
+   "event": "ERDEMLİ",
+   "birth_year_min": 2015,
+   "birth_year_max": 2020,
+   "gender": "female",
+   "flags": [],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1551437,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1551440,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551443,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 15
+    },
+    {
+     "id": 1551448,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551450,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 5
+    },
+    {
+     "id": 1551453,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1551457,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1551460,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    }
+   ]
+  },
+  {
+   "id": "mersin-1048",
+   "province": "mersin",
+   "province_name": "Mersin",
+   "title": "Erdemli 07-12 Yaş Aralığı (2020-2015 yıllarında doğan sporcular)",
+   "event": "ERDEMLİ",
+   "birth_year_min": 2015,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1551437,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1551440,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 4
+    },
+    {
+     "id": 1551443,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 15
+    },
+    {
+     "id": 1551448,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 27
+    },
+    {
+     "id": 1551450,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 5
+    },
+    {
+     "id": 1551453,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1551457,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 8
+    },
+    {
+     "id": 1551460,
+     "name": "KÜÇÜKLER 07-12 YAŞ SATRANÇ ERDEMLİ İLÇE BİRİNCİLİĞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    }
+   ]
+  },
+  {
+   "id": "mus-152",
+   "province": "mus",
+   "province_name": "Muş",
+   "title": "2026 KÜÇÜKLER SATRANÇ MUŞ İL BİRİNCİLİĞİ",
+   "event": "2026 KÜÇÜKLER SATRANÇ MUŞ İL BİRİNCİLİĞİ",
+   "birth_year_min": 2015,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-10-23",
+   "cr": [
+    {
+     "id": 1525987,
+     "name": "2026_mus_merkez_kucukler_satranc_mus_il_birincilig",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 6
+    },
+    {
+     "id": 1525981,
+     "name": "2026_mus_merkez_kucukler_satranc_mus_il_birincilig",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1531333,
+     "name": "MUŞ-29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnu",
+     "from": "2026-10-31",
+     "to": "2026-10-31",
+     "tempo": "rapid",
+     "rounds": 5,
+     "players": 30
+    },
+    {
+     "id": 1531339,
+     "name": "MUŞ-29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnu",
+     "from": "2026-10-31",
+     "to": "2026-10-31",
+     "tempo": "rapid",
+     "rounds": 5,
+     "players": 11
+    }
+   ]
+  },
+  {
+   "id": "mus-153",
+   "province": "mus",
+   "province_name": "Muş",
+   "title": "MUŞ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "event": "MUŞ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-10-30",
+   "cr": [
+    {
+     "id": 1531333,
+     "name": "MUŞ-29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnu",
+     "from": "2026-10-31",
+     "to": "2026-10-31",
+     "tempo": "rapid",
+     "rounds": 5,
+     "players": 30
+    },
+    {
+     "id": 1531339,
+     "name": "MUŞ-29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnu",
+     "from": "2026-10-31",
+     "to": "2026-10-31",
+     "tempo": "rapid",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1537430,
+     "name": "Birinci Muş Satranç ŞenliğiU 10",
+     "from": "2026-11-08",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 16
+    },
+    {
+     "id": 1537431,
+     "name": "Birinci Muş Satranç ŞenliğiU 14",
+     "from": "2026-11-08",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 18
+    },
+    {
+     "id": 1537429,
+     "name": "Birinci Muş Satranç ŞenliğiU 8",
+     "from": "2026-11-08",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 20
+    },
+    {
+     "id": 1531254,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 19
+    },
+    {
+     "id": 1531255,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8 YAŞ",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1531253,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASIAÇIK K",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 12
+    }
+   ]
+  },
+  {
+   "id": "mus-154",
+   "province": "mus",
+   "province_name": "Muş",
+   "title": "24 kasım 2026 öğretmenler günü satranç turnuvası",
+   "event": "ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-24",
+   "cr": [
+    {
+     "id": 1548156,
+     "name": "Muş İli 24 Kasım Öğretmenler Günü Hızlı Satranç Tu",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "rapid",
+     "rounds": 6,
+     "players": 45
+    },
+    {
+     "id": 1548158,
+     "name": "Muş İli 24 Kasım Öğretmenler Günü Hızlı Satranç Tu",
+     "from": "2026-11-22",
+     "to": "2026-11-22",
+     "tempo": "rapid",
+     "rounds": 5,
+     "players": 20
+    },
+    {
+     "id": 1546854,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAS",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 22
+    },
+    {
+     "id": 1546856,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAS v",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546852,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIAÇIK KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 56
+    },
+    {
+     "id": 1547419,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TUNCELİ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 31
+    },
+    {
+     "id": 1529352,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TUNCELİ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1547288,
+     "name": "BİNGÖL 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 10
+    }
+   ]
+  },
+  {
+   "id": "osmaniye-436",
+   "province": "osmaniye",
+   "province_name": "Osmaniye",
+   "title": "29 Ekim Cumhuriyet Bayramı Satranç Turnuvası",
+   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-10-23",
+   "cr": [
+    {
+     "id": 1526331,
+     "name": "OSMANİYE 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUV",
+     "from": "2026-10-24",
+     "to": "2026-10-25",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 17
+    },
+    {
+     "id": 1531100,
+     "name": "KADİRLİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVA",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1531132,
+     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 10
+    },
+    {
+     "id": 1531131,
+     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1531137,
+     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8 YAŞ",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1525408,
+     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
+     "from": "2026-10-23",
+     "to": "2026-10-24",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 20
+    },
+    {
+     "id": 1526213,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1526211,
+     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
+     "from": "2026-10-24",
+     "to": "2026-10-24",
+     "tempo": "rapid",
+     "rounds": 6,
+     "players": 46
+    }
+   ]
+  },
+  {
+   "id": "osmaniye-437",
+   "province": "osmaniye",
+   "province_name": "Osmaniye",
+   "title": "Kadirli 29 Ekim Cumhuriyet Bayramı Satranç Turnuvası",
+   "event": "KADİRLİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-10-30",
+   "cr": [
+    {
+     "id": 1531100,
+     "name": "KADİRLİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVA",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1531132,
+     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 10
+    },
+    {
+     "id": 1531131,
+     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1531137,
+     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8 YAŞ",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 6
+    },
+    {
+     "id": 1531254,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 19
+    },
+    {
+     "id": 1531255,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8 YAŞ",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 5
+    },
+    {
+     "id": 1531253,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASIAÇIK K",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 12
+    },
+    {
+     "id": 1530764,
+     "name": "DATÇA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNU",
+     "from": "2026-10-30",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 4
+    }
+   ]
+  },
+  {
+   "id": "osmaniye-438",
+   "province": "osmaniye",
+   "province_name": "Osmaniye",
+   "title": "Düziçi Atatürk Haftası Satranç Turnuvası",
+   "event": "DÜZİÇİ ATATÜRK HAFTASI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-05",
+   "cr": [
+    {
+     "id": 1536557,
+     "name": "DÜZİÇİ ATATÜRK HAFTASI SATRANÇ TURNUVASIA KATEGORİ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 15
+    },
+    {
+     "id": 1536560,
+     "name": "DÜZİÇİ ATATÜRK HAFTASI SATRANÇ TURNUVASIB KATEGORİ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 4
+    },
+    {
+     "id": 1536558,
+     "name": "DÜZİÇİ ATATÜRK HAFTASI SATRANÇ TURNUVASIC KATEGORİ",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 1,
+     "players": 25
+    },
+    {
+     "id": 1541332,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI10 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1541337,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI14 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1541333,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI8 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 6
+    },
+    {
+     "id": 1541338,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASIAÇIK KATE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 11
+    },
+    {
+     "id": 1541361,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "osmaniye-439",
+   "province": "osmaniye",
+   "province_name": "Osmaniye",
+   "title": "Kadirli Atatürk Haftası Satranç Turnuvası 2026",
+   "event": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI 2026",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-13",
+   "cr": [
+    {
+     "id": 1541332,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI10 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1541337,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI14 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1541333,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI8 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 6
+    },
+    {
+     "id": 1541338,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASIAÇIK KATE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 11
+    },
+    {
+     "id": 1541361,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1541353,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI10 YAŞ V",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 9
+    },
+    {
+     "id": 1541358,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI14 YAŞ V",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 10
+    },
+    {
+     "id": 1541351,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI8 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 9
+    }
+   ]
+  },
+  {
+   "id": "osmaniye-440",
+   "province": "osmaniye",
+   "province_name": "Osmaniye",
+   "title": "Atatürk Haftası Satranç Turnuvası 2026",
+   "event": "ATATÜRK HAFTASI SATRANÇ TURNUVASI 2026",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-13",
+   "cr": [
+    {
+     "id": 1541332,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI10 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1541337,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI14 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 8
+    },
+    {
+     "id": 1541333,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASI8 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 6
+    },
+    {
+     "id": 1541338,
+     "name": "KADİRLİ ATATÜRK HAFTASI SATRANÇ TURNUVASIAÇIK KATE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 11
+    },
+    {
+     "id": 1541361,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1541353,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI10 YAŞ V",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 9
+    },
+    {
+     "id": 1541358,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI14 YAŞ V",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 10
+    },
+    {
+     "id": 1541351,
+     "name": "OSMANİYE ATATÜRK HAFTASI SATRANÇ TURNUVASI8 YAŞ VE",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 9
+    }
+   ]
+  },
+  {
+   "id": "osmaniye-443",
+   "province": "osmaniye",
+   "province_name": "Osmaniye",
+   "title": "Düziçi Öğretmenler Günü Satranç Turnuvası",
+   "event": "DÜZİÇİ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-18",
+   "cr": [
+    {
+     "id": 1544996,
+     "name": "DÜZİÇİ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10YAŞ ve",
+     "from": "2026-11-19",
+     "to": "2026-11-20",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 11
+    },
+    {
+     "id": 1544994,
+     "name": "DÜZİÇİ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14Yaş ve",
+     "from": "2026-11-19",
+     "to": "2026-11-20",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 20
+    },
+    {
+     "id": 1544993,
+     "name": "DÜZİÇİ ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIAÇIK KATE",
+     "from": "2026-11-19",
+     "to": "2026-11-20",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 11
+    }
+   ]
+  },
+  {
+   "id": "sirnak-53",
+   "province": "sirnak",
+   "province_name": "Şırnak",
+   "title": "SİLOPİ ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI",
+   "event": "SİLOPİ ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-23",
+   "cr": [
+    {
+     "id": 1549428,
+     "name": "SİLOPİ ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASIAÇI",
+     "from": "2026-11-23",
+     "to": "2026-11-24",
+     "tempo": "rapid",
+     "rounds": 5,
+     "players": 22
+    },
+    {
+     "id": 1549445,
+     "name": "İDİL ÖĞRETMENLER GÜNÜ HIZLI SATRANÇ TURNUVASIAÇIK",
+     "from": "2026-11-23",
+     "to": "2026-11-24",
+     "tempo": "rapid",
+     "rounds": 5,
+     "players": 26
+    },
+    {
+     "id": 1546669,
+     "name": "CİZRE ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 14
+    }
+   ]
+  },
+  {
+   "id": "tekirdag-1071",
+   "province": "tekirdag",
+   "province_name": "Tekirdağ",
+   "title": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI (YEDEK AÇIK)",
+   "event": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI ( AÇIK)",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1552321,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1552322,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI10 YAŞ ve",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 39
+    },
+    {
+     "id": 1552323,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASIAÇIK KATE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 40
+    }
+   ]
+  },
+  {
+   "id": "tekirdag-1072",
+   "province": "tekirdag",
+   "province_name": "Tekirdağ",
+   "title": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI (YEDEK 10 YAŞ VE ALTI)",
+   "event": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2017,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1552322,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI10 YAŞ ve",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 39
+    },
+    {
+     "id": 1552321,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1552323,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASIAÇIK KATE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 40
+    }
+   ]
+  },
+  {
+   "id": "tekirdag-1073",
+   "province": "tekirdag",
+   "province_name": "Tekirdağ",
+   "title": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI (YEDEK 8 YAŞ VE ALTI)",
+   "event": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
+   "birth_year_min": 2019,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [
+    "birth_years_from_age"
+   ],
+   "date": "2026-11-26",
+   "cr": [
+    {
+     "id": 1552321,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
+    },
+    {
+     "id": 1552322,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI10 YAŞ ve",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 39
+    },
+    {
+     "id": 1552323,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASIAÇIK KATE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 40
+    }
+   ]
+  },
+  {
+   "id": "van-90",
+   "province": "van",
+   "province_name": "Van",
+   "title": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI",
+   "event": "10 KASIM ATATÜRK'Ü ANMA SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-13",
+   "cr": [
+    {
+     "id": 1541406,
+     "name": "10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI10 YAŞ ALT",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1541408,
+     "name": "10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI14 YAŞ ALT",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 21
+    },
+    {
+     "id": 1541404,
+     "name": "10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASI8 YAŞ ALTI",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1541402,
+     "name": "10 KASIM ATATÜRKÜ ANMA SATRANÇ TURNUVASIAÇIK KATEG",
+     "from": "2026-11-14",
+     "to": "2026-11-15",
+     "tempo": "classical",
+     "rounds": 7,
+     "players": 7
+    },
+    {
+     "id": 1546817,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN10 YAŞ ALTI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 4,
+     "players": 11
+    },
+    {
+     "id": 1546808,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN",
+     "from": "2026-11-20",
+     "to": "2026-11-20",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 54
+    },
+    {
+     "id": 1546816,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN14 YAŞ ALTI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 4,
+     "players": 20
+    },
+    {
+     "id": 1546812,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN8 YAŞ ALTI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 3
+    }
+   ]
+  },
+  {
+   "id": "van-91",
+   "province": "van",
+   "province_name": "Van",
+   "title": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "event": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-20",
+   "cr": [
+    {
+     "id": 1546808,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN",
+     "from": "2026-11-20",
+     "to": "2026-11-20",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 54
+    },
+    {
+     "id": 1546817,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN10 YAŞ ALTI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 4,
+     "players": 11
+    },
+    {
+     "id": 1546816,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN14 YAŞ ALTI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 4,
+     "players": 20
+    },
+    {
+     "id": 1546812,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VAN8 YAŞ ALTI",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 3
+    },
+    {
+     "id": 1546815,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ TURNUVASI-VANAÇIK KATEGO",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 6
+    },
+    {
+     "id": 1546854,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAS",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 22
+    },
+    {
+     "id": 1546856,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAS v",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 13
+    },
+    {
+     "id": 1546852,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIAÇIK KA",
+     "from": "2026-11-21",
+     "to": "2026-11-22",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 56
+    }
+   ]
+  },
+  {
+   "id": "yozgat-134",
+   "province": "yozgat",
+   "province_name": "Yozgat",
+   "title": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI(31 Ekim-1 Kasım 2026)",
+   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-10-31",
+   "cr": [
+    {
+     "id": 1548091,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 10 YA",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 10
+    },
+    {
+     "id": 1548090,
+     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 19
+    },
+    {
+     "id": 1530405,
+     "name": "DATÇA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNU",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 9
+    },
+    {
+     "id": 1530408,
+     "name": "DATÇA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNU",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 12
+    },
+    {
+     "id": 1530379,
+     "name": "DATÇA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNU",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 6
+    },
+    {
+     "id": 1530403,
+     "name": "DATÇA 29 EKİM CUMHURİYET BAYRAMI ELO SATRANÇ TURNU",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 12
+    },
+    {
+     "id": 1531691,
+     "name": "ELBİSTAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUV",
+     "from": "2026-10-31",
+     "to": "2026-11-01",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 20
+    },
+    {
+     "id": 1531690,
+     "name": "ELBİSTAN 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUV",
+     "from": "2026-10-31",
+     "to": "2026-10-31",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 23
+    }
+   ]
+  },
+  {
+   "id": "yozgat-135",
+   "province": "yozgat",
+   "province_name": "Yozgat",
+   "title": "YERKÖY GENÇLİK MERKEZİ DÜŞÜN VE OYNA SATRANÇ TURNUVASI(7-8 Kasım 2026)",
+   "event": "YERKÖY GENÇLİK MERKEZİ DÜŞÜN VE OYNA SATRANÇ TURNUVASI",
+   "birth_year_min": null,
+   "birth_year_max": null,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-07",
+   "cr": [
+    {
+     "id": 1548126,
+     "name": "YERKÖY GENÇLİK MERKEZİ DÜŞÜN VE OYNA SATRANÇ TURNU",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 5,
+     "players": 11
+    },
+    {
+     "id": 1548125,
+     "name": "YERKÖY GENÇLİK MERKEZİ DÜŞÜN VE OYNA SATRANÇ TURNU",
+     "from": "2026-11-07",
+     "to": "2026-11-08",
+     "tempo": "classical",
+     "rounds": 6,
+     "players": 44
+    }
+   ]
+  }
+ ]
+}
