@@ -1,11 +1,22 @@
 {
- "generated_at": "2026-11-26T21:43:21+03:00",
- "duration_s": 8.2,
+ "generated_at": "2026-11-27T06:49:56+03:00",
+ "duration_s": 106.4,
  "provinces_scraped": 76,
- "records_total": 647,
- "listed": 0,
- "open": 0,
- "new_this_run": 0,
- "new_ids": [],
+ "records_total": 657,
+ "listed": 429,
+ "open": 315,
+ "new_this_run": 10,
+ "new_ids": [
+  "aydin-1042",
+  "aydin-1041",
+  "aydin-1040",
+  "aydin-1039",
+  "zonguldak-329",
+  "zonguldak-328",
+  "zonguldak-327",
+  "zonguldak-326",
+  "zonguldak-325",
+  "zonguldak-324"
+ ],
  "errors": []
 }
