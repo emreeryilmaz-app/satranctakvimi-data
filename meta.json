@@ -1,11 +1,16 @@
 {
- "generated_at": "2026-11-27T12:54:05+03:00",
- "duration_s": 51.0,
+ "generated_at": "2026-11-27T15:54:31+03:00",
+ "duration_s": 53.9,
  "provinces_scraped": 76,
- "records_total": 657,
- "listed": 428,
- "open": 310,
- "new_this_run": 0,
- "new_ids": [],
+ "records_total": 661,
+ "listed": 432,
+ "open": 311,
+ "new_this_run": 4,
+ "new_ids": [
+  "bartin-281",
+  "bartin-280",
+  "mus-156",
+  "tokat-368"
+ ],
  "errors": []
 }
