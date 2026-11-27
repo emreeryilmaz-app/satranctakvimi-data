@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-11-27T18:48:25+03:00",
- "duration_s": 51.8,
+ "generated_at": "2026-11-27T21:41:48+03:00",
+ "duration_s": 53.4,
  "provinces_scraped": 76,
- "records_total": 662,
- "listed": 430,
- "open": 276,
- "new_this_run": 1,
+ "records_total": 668,
+ "listed": 414,
+ "open": 271,
+ "new_this_run": 6,
  "new_ids": [
-  "bartin-282"
+  "canakkale-774",
+  "canakkale-773",
+  "canakkale-772",
+  "canakkale-771",
+  "canakkale-770",
+  "canakkale-769"
  ],
  "errors": []
 }
