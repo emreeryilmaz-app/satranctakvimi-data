@@ -1,12 +1,14 @@
 {
- "generated_at": "2026-11-27T22:01:13+03:00",
- "duration_s": 53.4,
+ "generated_at": "2026-11-28T06:44:26+03:00",
+ "duration_s": 60.6,
  "provinces_scraped": 76,
- "records_total": 668,
+ "records_total": 669,
  "listed": 414,
- "open": 271,
- "new_this_run": 0,
- "new_ids": [],
+ "open": 272,
+ "new_this_run": 1,
+ "new_ids": [
+  "bursa-705"
+ ],
  "cr_linked": 91,
  "errors": []
 }

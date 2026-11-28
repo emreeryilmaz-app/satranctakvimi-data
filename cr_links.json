@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:02:03+03:00",
+ "generated_at": "2026-11-28T06:45:25+03:00",
  "tournaments": [
   {
    "id": "adana-939",
@@ -21,8 +21,31 @@
      "from": "2026-11-26",
      "to": "2026-11-29",
      "tempo": "classical",
-     "rounds": 2,
+     "rounds": 3,
      "players": 29
+    }
+   ]
+  },
+  {
+   "id": "adiyaman-335",
+   "province": "adiyaman",
+   "province_name": "Adıyaman",
+   "title": "GENÇLER İL BİRİNCİLİĞİ 2007-2020 DOĞUMLU SPORCULAR 28-29 KASIM 2026",
+   "event": "GENÇLER İL BİRİNCİLİĞİ",
+   "birth_year_min": 2007,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552744,
+     "name": "ADIYAMAN GENÇLER İL BİRİNCİLİĞİ SATRANÇ TURNUVASI",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 41
     }
    ]
   },
@@ -2316,7 +2339,7 @@
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 91
+     "players": 90
     }
    ]
   },
@@ -3080,31 +3103,76 @@
    "date": "2026-11-28",
    "cr": [
     {
-     "id": 1551477,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "id": 1552716,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 37
+     "players": 43
     },
     {
-     "id": 1551430,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "id": 1552718,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 17
+     "players": 14
     },
     {
-     "id": 1551429,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "id": 1552708,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 64
+     "players": 14
+    },
+    {
+     "id": 1552711,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 26
+    },
+    {
+     "id": 1552723,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1552734,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552732,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552735,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ v",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
     }
    ]
   },
@@ -3123,31 +3191,76 @@
    "date": "2026-11-28",
    "cr": [
     {
-     "id": 1551477,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "id": 1552716,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 37
+     "players": 43
     },
     {
-     "id": 1551430,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "id": 1552718,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 17
+     "players": 14
     },
     {
-     "id": 1551429,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "id": 1552708,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 64
+     "players": 14
+    },
+    {
+     "id": 1552711,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 26
+    },
+    {
+     "id": 1552723,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1552732,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552734,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552735,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ v",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
     }
    ]
   },
@@ -3166,31 +3279,76 @@
    "date": "2026-11-28",
    "cr": [
     {
-     "id": 1551477,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "id": 1552716,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 37
+     "players": 43
     },
     {
-     "id": 1551430,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "id": 1552718,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 17
+     "players": 14
     },
     {
-     "id": 1551429,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "id": 1552708,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 64
+     "players": 14
+    },
+    {
+     "id": 1552711,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 26
+    },
+    {
+     "id": 1552723,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1552734,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552732,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552735,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ v",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
     }
    ]
   },
@@ -3209,6 +3367,60 @@
    "date": "2026-11-28",
    "cr": [
     {
+     "id": 1552716,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 43
+    },
+    {
+     "id": 1552718,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552708,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
+     "id": 1552711,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 26
+    },
+    {
+     "id": 1552723,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1552735,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ v",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
+    },
+    {
      "id": 1551477,
      "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
      "from": "2026-11-28",
@@ -3218,22 +3430,13 @@
      "players": 37
     },
     {
-     "id": 1551430,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "id": 1552734,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 17
-    },
-    {
-     "id": 1551429,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
-     "from": "2026-11-28",
-     "to": "2026-11-29",
-     "tempo": "classical",
-     "rounds": 0,
-     "players": 64
+     "players": 30
     }
    ]
   },
@@ -3252,31 +3455,76 @@
    "date": "2026-11-28",
    "cr": [
     {
-     "id": 1551477,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "id": 1552716,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 37
+     "players": 43
     },
     {
-     "id": 1551430,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "id": 1552718,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 17
+     "players": 14
     },
     {
-     "id": 1551429,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "id": 1552708,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 64
+     "players": 14
+    },
+    {
+     "id": 1552711,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 26
+    },
+    {
+     "id": 1552723,
+     "name": "KIRIKKALE 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUV",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 28
+    },
+    {
+     "id": 1552734,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552732,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552735,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ v",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
     }
    ]
   },
@@ -3301,7 +3549,7 @@
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 0
+     "players": 66
     },
     {
      "id": 1549870,
@@ -3380,7 +3628,7 @@
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 0
+     "players": 66
     }
    ]
   },
@@ -3430,7 +3678,7 @@
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 0
+     "players": 66
     },
     {
      "id": 1552327,
@@ -3491,7 +3739,7 @@
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 0
+     "players": 66
     }
    ]
   },
@@ -3648,7 +3896,7 @@
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 0
+     "players": 66
     }
    ]
   },
@@ -3665,31 +3913,76 @@
    "date": "2026-11-28",
    "cr": [
     {
-     "id": 1551477,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "id": 1552844,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ VE",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 37
+     "players": 65
     },
     {
-     "id": 1551430,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "id": 1552843,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI12 YAŞ VE",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 17
+     "players": 59
     },
     {
-     "id": 1551429,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
+     "id": 1552841,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ VE",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 64
+     "players": 42
+    },
+    {
+     "id": 1552839,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI18 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552845,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ VE A",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552734,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 30
+    },
+    {
+     "id": 1552732,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 21
+    },
+    {
+     "id": 1552735,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ v",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 14
     }
    ]
   },
@@ -3706,293 +3999,76 @@
    "date": "2026-11-28",
    "cr": [
     {
-     "id": 1551477,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç Turnuvası8",
+     "id": 1552844,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ VE",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 37
+     "players": 65
     },
     {
-     "id": 1551430,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıA",
+     "id": 1552843,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI12 YAŞ VE",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
      "rounds": 0,
-     "players": 17
-    },
-    {
-     "id": 1551429,
-     "name": "Söke 24 Kasım Öğretmenler Günü Satranç TurnuvasıB",
-     "from": "2026-11-28",
-     "to": "2026-11-29",
-     "tempo": "classical",
-     "rounds": 0,
-     "players": 64
-    }
-   ]
-  },
-  {
-   "id": "kutahya-588",
-   "province": "kutahya",
-   "province_name": "Kütahya",
-   "title": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 8 YAŞ",
-   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
-   "birth_year_min": 2019,
-   "birth_year_max": 2019,
-   "gender": "open",
-   "flags": [
-    "birth_years_from_age"
-   ],
-   "date": "2026-10-23",
-   "cr": [
-    {
-     "id": 1525765,
-     "name": "CUMHURİYET BAYRAMI 10 YAŞ SATRANÇ TURNUVASI",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 6,
-     "players": 41
-    },
-    {
-     "id": 1526162,
-     "name": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 29
-    },
-    {
-     "id": 1525763,
-     "name": "Cumhuriyet Satranç Turnuvası 8 Yaş",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 16
-    },
-    {
-     "id": 1526363,
-     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 8 YAŞ",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 7,
-     "players": 8
-    },
-    {
-     "id": 1526201,
-     "name": "ORDU 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 11
-    },
-    {
-     "id": 1531255,
-     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8 YAŞ",
-     "from": "2026-10-30",
-     "to": "2026-11-01",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 5
-    },
-    {
-     "id": 1531203,
-     "name": "RİZE 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8",
-     "from": "2026-10-31",
-     "to": "2026-11-01",
-     "tempo": "classical",
-     "rounds": 6,
-     "players": 35
-    },
-    {
-     "id": 1525408,
-     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
-     "from": "2026-10-23",
-     "to": "2026-10-24",
-     "tempo": "classical",
-     "rounds": 7,
-     "players": 20
-    }
-   ]
-  },
-  {
-   "id": "kutahya-589",
-   "province": "kutahya",
-   "province_name": "Kütahya",
-   "title": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
-   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
-   "birth_year_min": null,
-   "birth_year_max": null,
-   "gender": "open",
-   "flags": [],
-   "date": "2026-10-23",
-   "cr": [
-    {
-     "id": 1525765,
-     "name": "CUMHURİYET BAYRAMI 10 YAŞ SATRANÇ TURNUVASI",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 6,
-     "players": 41
-    },
-    {
-     "id": 1526162,
-     "name": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 29
-    },
-    {
-     "id": 1525763,
-     "name": "Cumhuriyet Satranç Turnuvası 8 Yaş",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 16
-    },
-    {
-     "id": 1525408,
-     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
-     "from": "2026-10-23",
-     "to": "2026-10-24",
-     "tempo": "classical",
-     "rounds": 7,
-     "players": 20
-    },
-    {
-     "id": 1526213,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 7,
-     "players": 7
-    },
-    {
-     "id": 1526211,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 6,
-     "players": 46
-    },
-    {
-     "id": 1526212,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 6,
      "players": 59
     },
     {
-     "id": 1526366,
-     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 10 YA",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
+     "id": 1552841,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
      "tempo": "classical",
-     "rounds": 7,
-     "players": 7
-    }
-   ]
-  },
-  {
-   "id": "kutahya-590",
-   "province": "kutahya",
-   "province_name": "Kütahya",
-   "title": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 10 YAŞ",
-   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
-   "birth_year_min": 2017,
-   "birth_year_max": 2017,
-   "gender": "open",
-   "flags": [
-    "birth_years_from_age"
-   ],
-   "date": "2026-10-23",
-   "cr": [
+     "rounds": 0,
+     "players": 42
+    },
     {
-     "id": 1525765,
-     "name": "CUMHURİYET BAYRAMI 10 YAŞ SATRANÇ TURNUVASI",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
+     "id": 1552839,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI18 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
      "tempo": "classical",
-     "rounds": 6,
-     "players": 41
+     "rounds": 0,
+     "players": 30
     },
     {
-     "id": 1526162,
-     "name": "CUMHURİYET BAYRAMI SATRANÇ TURNUVASI AÇIK YAŞ",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
+     "id": 1552845,
+     "name": "KONYA ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ VE A",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
      "tempo": "classical",
-     "rounds": 5,
-     "players": 29
+     "rounds": 0,
+     "players": 30
     },
     {
-     "id": 1526366,
-     "name": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI 10 YA",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
+     "id": 1552734,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI10 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
      "tempo": "classical",
-     "rounds": 7,
-     "players": 7
+     "rounds": 0,
+     "players": 30
     },
     {
-     "id": 1525763,
-     "name": "Cumhuriyet Satranç Turnuvası 8 Yaş",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
+     "id": 1552732,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI14 YAŞ",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
      "tempo": "classical",
-     "rounds": 5,
-     "players": 16
+     "rounds": 0,
+     "players": 21
     },
     {
-     "id": 1525408,
-     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
-     "from": "2026-10-23",
-     "to": "2026-10-24",
+     "id": 1552735,
+     "name": "24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI8 YAŞ v",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
      "tempo": "classical",
-     "rounds": 7,
-     "players": 20
-    },
-    {
-     "id": 1526213,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 7,
-     "players": 7
-    },
-    {
-     "id": 1526211,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 6,
-     "players": 46
-    },
-    {
-     "id": 1526212,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 6,
-     "players": 59
+     "rounds": 0,
+     "players": 14
     }
    ]
   },
@@ -5009,58 +5085,6 @@
    ]
   },
   {
-   "id": "mus-152",
-   "province": "mus",
-   "province_name": "Muş",
-   "title": "2026 KÜÇÜKLER SATRANÇ MUŞ İL BİRİNCİLİĞİ",
-   "event": "2026 KÜÇÜKLER SATRANÇ MUŞ İL BİRİNCİLİĞİ",
-   "birth_year_min": 2015,
-   "birth_year_max": 2020,
-   "gender": "open",
-   "flags": [
-    "birth_years_from_age"
-   ],
-   "date": "2026-10-23",
-   "cr": [
-    {
-     "id": 1525987,
-     "name": "2026_mus_merkez_kucukler_satranc_mus_il_birincilig",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 6
-    },
-    {
-     "id": 1525981,
-     "name": "2026_mus_merkez_kucukler_satranc_mus_il_birincilig",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 5
-    },
-    {
-     "id": 1531333,
-     "name": "MUŞ-29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnu",
-     "from": "2026-10-31",
-     "to": "2026-10-31",
-     "tempo": "rapid",
-     "rounds": 5,
-     "players": 30
-    },
-    {
-     "id": 1531339,
-     "name": "MUŞ-29 Ekim Cumhuriyet Bayramı Hızlı Satranç Turnu",
-     "from": "2026-10-31",
-     "to": "2026-10-31",
-     "tempo": "rapid",
-     "rounds": 5,
-     "players": 11
-    }
-   ]
-  },
-  {
    "id": "mus-153",
    "province": "mus",
    "province_name": "Muş",
@@ -5229,92 +5253,6 @@
      "tempo": "classical",
      "rounds": 5,
      "players": 10
-    }
-   ]
-  },
-  {
-   "id": "osmaniye-436",
-   "province": "osmaniye",
-   "province_name": "Osmaniye",
-   "title": "29 Ekim Cumhuriyet Bayramı Satranç Turnuvası",
-   "event": "29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVASI",
-   "birth_year_min": null,
-   "birth_year_max": null,
-   "gender": "open",
-   "flags": [],
-   "date": "2026-10-23",
-   "cr": [
-    {
-     "id": 1526331,
-     "name": "OSMANİYE 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUV",
-     "from": "2026-10-24",
-     "to": "2026-10-25",
-     "tempo": "classical",
-     "rounds": 5,
-     "players": 17
-    },
-    {
-     "id": 1531100,
-     "name": "KADİRLİ 29 EKİM CUMHURİYET BAYRAMI SATRANÇ TURNUVA",
-     "from": "2026-10-30",
-     "to": "2026-11-01",
-     "tempo": "classical",
-     "rounds": 0,
-     "players": 6
-    },
-    {
-     "id": 1531132,
-     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI10 YAŞ",
-     "from": "2026-10-31",
-     "to": "2026-11-01",
-     "tempo": "classical",
-     "rounds": 0,
-     "players": 10
-    },
-    {
-     "id": 1531131,
-     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI14 YAŞ",
-     "from": "2026-10-31",
-     "to": "2026-11-01",
-     "tempo": "classical",
-     "rounds": 0,
-     "players": 14
-    },
-    {
-     "id": 1531137,
-     "name": "KADİRLİ CUMHURİYET BAYRAMI SATRANÇ TURNUVASI8 YAŞ",
-     "from": "2026-10-31",
-     "to": "2026-11-01",
-     "tempo": "classical",
-     "rounds": 0,
-     "players": 6
-    },
-    {
-     "id": 1525408,
-     "name": "29 Ekim Cumhuriyet Bayramı Turmuvası",
-     "from": "2026-10-23",
-     "to": "2026-10-24",
-     "tempo": "classical",
-     "rounds": 7,
-     "players": 20
-    },
-    {
-     "id": 1526213,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 7,
-     "players": 7
-    },
-    {
-     "id": 1526211,
-     "name": "2026-27 SOMA 29 EKİM CUMHURİYET BAYRAMI HIZLI SATR",
-     "from": "2026-10-24",
-     "to": "2026-10-24",
-     "tempo": "rapid",
-     "rounds": 6,
-     "players": 46
     }
    ]
   },
@@ -5745,6 +5683,206 @@
    ]
   },
   {
+   "id": "sivas-444",
+   "province": "sivas",
+   "province_name": "Sivas",
+   "title": "Öğretmenler Günü 8 Yaş Altı Kategori (2020 – 2019 Yıllarında Doğan Sporcular)",
+   "event": "ÖĞRETMENLER GÜNÜ",
+   "birth_year_min": 2019,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552757,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI0",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552770,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552776,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552778,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "sivas-445",
+   "province": "sivas",
+   "province_name": "Sivas",
+   "title": "Öğretmenler Günü 10 Yaş Altı Kategori (2017 – 2018 Yıllarında Doğan Sporcular)",
+   "event": "ÖĞRETMENLER GÜNÜ",
+   "birth_year_min": 2017,
+   "birth_year_max": 2018,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552757,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI0",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552770,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552776,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552778,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "sivas-446",
+   "province": "sivas",
+   "province_name": "Sivas",
+   "title": "Öğretmenler Günü 14 Yaş Altı Kategori (2013 – 2016 Yıllarında Doğan Sporcular)",
+   "event": "ÖĞRETMENLER GÜNÜ",
+   "birth_year_min": 2013,
+   "birth_year_max": 2016,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552757,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI0",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552770,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552776,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552778,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
+   "id": "sivas-447",
+   "province": "sivas",
+   "province_name": "Sivas",
+   "title": "Öğretmenler Günü AÇIK KATEGORİ (2020 ve Önceki Yıllarda Doğan Sporcular)",
+   "event": "ÖĞRETMENLER GÜNÜ",
+   "birth_year_min": null,
+   "birth_year_max": 2020,
+   "gender": "open",
+   "flags": [],
+   "date": "2026-11-28",
+   "cr": [
+    {
+     "id": 1552757,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI0",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552770,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552776,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASI1",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    },
+    {
+     "id": 1552778,
+     "name": "SİVAS 24 KASIM ÖĞRETMENLER GÜNÜ SATRANÇ TURNUVASIA",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 0
+    }
+   ]
+  },
+  {
    "id": "tekirdag-1071",
    "province": "tekirdag",
    "province_name": "Tekirdağ",
@@ -5757,15 +5895,6 @@
    "date": "2026-11-26",
    "cr": [
     {
-     "id": 1552321,
-     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
-     "from": "2026-11-28",
-     "to": "2026-11-29",
-     "tempo": "classical",
-     "rounds": 0,
-     "players": 36
-    },
-    {
      "id": 1552322,
      "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI10 YAŞ ve",
      "from": "2026-11-28",
@@ -5773,6 +5902,15 @@
      "tempo": "classical",
      "rounds": 0,
      "players": 39
+    },
+    {
+     "id": 1552321,
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI8 YAŞ VE",
+     "from": "2026-11-28",
+     "to": "2026-11-29",
+     "tempo": "classical",
+     "rounds": 0,
+     "players": 36
     },
     {
      "id": 1552323,
@@ -5810,7 +5948,7 @@
     },
     {
      "id": 1552321,
-     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI8 YAŞ VE",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
@@ -5844,7 +5982,7 @@
    "cr": [
     {
      "id": 1552321,
-     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI",
+     "name": "SARAY BELEDİYESİ ÖDÜLLÜ SATRANÇ TURNUVASI8 YAŞ VE",
      "from": "2026-11-28",
      "to": "2026-11-29",
      "tempo": "classical",
